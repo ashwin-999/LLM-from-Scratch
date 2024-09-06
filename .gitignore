@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pkl
+*.h5
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (customize as needed)
+*.csv
+*.json
+*.txt
+
+# Model files (customize as needed)
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+
+# Docker
+.docker/
+
+# Temporary files
+tmp/
+temp/
